@@ -1,0 +1,82 @@
+no event tailward of 15 RE
+the farthest dual observation is by thb and thc at -14.1 and -12.1 RE.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; using angles between v_c ;;;;;;;;;;;;;
+regarding X, using vperp: 
+all: 54/66 expand
+two side: 19/23 expand
+
+regarding X, using vperp2 from EFS+FGS:
+all: 48/60 expand
+two side: 13/18 expand
+
+regarding X, using vperp2 from EFF+FGL:
+all: 56/66 85% expand
+two side: 21/23 91% expand
+>30: 21/21 100% expand; convex/all: 21/25, 84%
+
+regarding X, using vperp2 from EFF+FGL, 5s:
+all: expand
+two side:  expand
+>30:  expand; convex/concave:
+
+regarding X, using vperp2 from EFF+FGL, 0s:
+all: 35/43 81% expand; convex/all: 43/63, 68%
+two side:  15/17 88% expand; convex/concave: 17/24, 71%
+>30: 11/12 92% expand; convex/concave: 12/18, 67%
+>40: 9/9 100% expand
+
+regarding X, using vperp2 from EFF+FGL:
+within 12 RE:
+all: 52/62 83%
+tailward of 10 RE:
+all: 31/34 91%
+Earthward of 10 RE:
+all: 16/22 72%
+Earthward of 9 RE:
+all: 6/7 85%
+
+More specific:
+15-12 RE:
+all: 1/1 100%; convex/all: 1/1 100%; median r: 0.30 RE
+11-12 RE:
+all: 7/8 88%; convex/all: 8/10 80%; median r: 0.54 RE
+10-11 RE:
+all: 16/18 89%; convex/all: 18/24 75%; median r: 1.6 RE
+9-10 RE:
+all: 5/8 62.5%; convex/all: 8/11 72%; median r: 0.38 RE
+8-9 RE:
+all: 4/5 80%; convex/all: 5/9 56%; median r: 0.47RE
+6-8 RE:
+all: 2/2 100%; convex/all: 2/4 50%; median r: 2.3 RE
+
+regarding X, using vdHT from EFS+FGS:
+all: 24/34 expand
+two side: 5/11 expand
+
+regarding X, using vdHT from EFF+FGL:
+all: 40/61 expand
+two side: 14/22 expand
+
+regarding vperp2, using vperp2 from EFF+FGL
+all: 52/64 81%
+
+------------------------------------------------------
+compare Pitkanen [2013]
+Expand: no By: 18/56; with By: 3/44
+Contract: no By: 3/10; with By: 1/6
+Convex: no By: 21/66; with By: 4/50
+Concave: no By: 8/23; with By: 5/19
+
+
+;;;;;;;;;;;;;;;;;;;;; using dvc_y/dy
+expand/convex: 48/66, 73%
+expand/convex, 0s: 32/43, 74%
+
+;;;;;;;;;;;;;;;;;;;;; using both
+expand vs concave: 47 vs 9, 84% 
+expand vs concave, 0s: 31 vs 7, 82%
+
+;;;;;;;;;;;;;;;;;;;;; for example:
+event 19 (best), 6, 11, 14, 16, 17, 
+

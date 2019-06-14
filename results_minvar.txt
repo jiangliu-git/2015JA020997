@@ -1,0 +1,8 @@
+regarding X, using vperp2 from EFF+FGL:
+convex: 52/92, 57%; convex/all: 72%
+>30: 28/43, 65% expand; convex/all: 49/59, 83%
+
+regarding X, using vperp2 from EFF+FGL, 0s:
+convex:  expand; convex/all: same as above
+>30:  expand; convex/concave: 
+>40:  expand

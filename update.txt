@@ -1,0 +1,5 @@
+- examine dZ seperation to see if 
+
+[done] use deHoffman Teller instead of simple exb.
+use this for the distribution paper too, where the pressure and flow distribution should be repeated.
+for distribution paper, check the angle between ht velocity and original calculation.
